@@ -7,12 +7,13 @@
 
 - 🌱 I’m currently learning **web frameworks**
 
-- 👨‍💻 All of my projects are available at [juanpablotovarvallejo.github.io/Portafolio/](juanpablotovarvallejo.github.io/Portafolio/)
+- 👨‍💻 All of my projects are available at [https://juanpablotovarvallejo.github.io/Portafolio/](https://juanpablotovarvallejo.github.io/Portafolio/)
 
 - 📫 How to reach me **juanpablo1502011@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/juan-pablo-tovar-vallejo-467220232/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juan-pablo-tovar-vallejo-467220232/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -23,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juanpablotovarvallejo&show_icons=true&locale=en" alt="juanpablotovarvallejo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=juanpablotovarvallejo&" alt="juanpablotovarvallejo" /></p>
+

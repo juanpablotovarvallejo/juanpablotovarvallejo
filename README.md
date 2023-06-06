@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanpablotovarvallejo" alt="juanpablotovarvallejo" /></a> </p>
 
-- 🌱 I’m currently learning **web frameworks** , studying Software Engineering at Escuela Politécnica Nacional University 
+- 🌱 I’m currently learning **web frameworks** , Software Engineer from Escuela Politécnica Nacional University 
 
 - 👨‍💻 All of my projects are available at [https://juanpablotovarvallejo.github.io/Portafolio/](https://juanpablotovarvallejo.github.io/Portafolio/)
 
